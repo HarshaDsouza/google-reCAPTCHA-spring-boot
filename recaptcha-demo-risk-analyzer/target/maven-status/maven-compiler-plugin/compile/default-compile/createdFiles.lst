@@ -1,0 +1,4 @@
+com\captcha\CaptchaAuthFilter.class
+com\captcha\MvcConfig.class
+com\captcha\Application.class
+com\captcha\WebSecurityConfig.class
